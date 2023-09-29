@@ -10,6 +10,7 @@
 
 </head>
 <body>
+<p>this si a  dropdown from feature 1 and it teaches me about merge conflict in github</p>
     <p>
         this is a new paragraphp
     </p>
